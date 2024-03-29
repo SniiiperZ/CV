@@ -1,0 +1,22 @@
+{
+  "nom": "Schreurs",
+  "prenom": "Cedric",
+  "metier": "Web Developer",
+  "location": "Jodoigne",
+  "email": "mail@gmail.com",
+  "telephone": "+32470 12 34 56",
+  "skills": [
+    "HTML, HTML5",
+    "CSS",
+    "Javascript",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Word Press"
+  ],
+  "langues": ["Français", "Néerlandais", "Anglais", "Allemand"],
+  "experience": [
+    "2015-2016: Web Developer chez WebSolution",
+    "2016-2017: Web Developer chez Google",
+    "2017-2018: Web Developer chez Adobe"
+  ]
+}
